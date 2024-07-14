@@ -6,7 +6,7 @@ I ran a backtest from Sept 2015 to October 2021, with starting amount being $500
 <img width="538" alt="image" src="https://github.com/user-attachments/assets/c30eda97-7ec3-4404-bc0f-bade237f1a98">
 
 
-
+Steps to run the trading bot,
 Step 1:
     Use the fetchDataForTradingAlgorithm.ipynb python program to fetch custom data from the wikipedia page.
 
