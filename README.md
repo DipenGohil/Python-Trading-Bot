@@ -7,6 +7,7 @@ I ran a backtest from Sept 2015 to October 2021, with starting amount being $500
 
 
 Steps to run the trading bot,
+
 Step 1:
     Use the fetchDataForTradingAlgorithm.ipynb python program to fetch custom data from the wikipedia page.
 
