@@ -1,6 +1,11 @@
 # Python-Trading-Bot
+Web-Scraped data from websites such as Wikipedia to get custom data that can be used for the QuantConnect trading algorithm.
 
-Web-Scraped data from websites such as Wikipedia to get custom data that can be used for the QC trading algorithm.
+I ran a backtest from Sept 2015 to October 2021, with starting amount being $50000, and the bot earned $64000.
+
+<img width="538" alt="image" src="https://github.com/user-attachments/assets/c30eda97-7ec3-4404-bc0f-bade237f1a98">
+
+
 
 Step 1:
     Use the fetchDataForTradingAlgorithm.ipynb python program to fetch custom data from the wikipedia page.
